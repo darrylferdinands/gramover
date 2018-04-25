@@ -1,0 +1,11 @@
+#container {border-radius: 15px;
+    border : 2px #008080;
+    border-style: solid;
+    width: 875px;
+    padding: 20px; 
+    height: 450px; 
+}
+.navbar-nav > li{
+  margin-left:20px;
+}
+
